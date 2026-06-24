@@ -10,7 +10,54 @@ Fun Fact	I am Sundanese
 Connect With Me
 <div align="center"> <a href="mailto:rikiandrianakuliah@gmail.com"> <img src="https://img.shields.io/badge/Email-rikiandrianakuliah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/riki-andriana-b87613247/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Riki%20Andriana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://instagram.com/riki_andriana21" target="_blank"> <img src="https://img.shields.io/badge/Instagram-riki_andriana21-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://www.youtube.com/@4speed202" target="_blank"> <img src="https://img.shields.io/badge/YouTube-4Speed202-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> </div>
 Tech Stack
-<div align="center"> <h3>Languages</h3> <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,cs" alt="Languages" /> <h3>Frontend & Backend</h3> <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,express,dotnet,bootstrap,tailwind,sass" alt="Frontend and backend technologies" /> <h3>Database & Infrastructure</h3> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" alt="Database and infrastructure" /> <br /> <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=000000" alt="ClickHouse" /> <h3>Tools & Game Development</h3> <img src="https://skillicons.dev/icons?i=git,postman,figma,blender,unity,unreal" alt="Tools and game development" /> </div>
-GitHub Analytics
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikiandriana&theme=github_dark" alt="Riki Andriana GitHub profile summary" /> </div> <br /> <div align="center"> <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rikiandriana&theme=github_dark" alt="Riki Andriana repositories per language" /> <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rikiandriana&theme=github_dark" alt="Riki Andriana most committed languages" /> </div> <br /> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikiandriana&theme=github-dark-blue&hide_border=true" alt="Riki Andriana GitHub streak" /> </div>
-<div align="center"> <strong>Code with purpose. Build with clarity. Keep learning.</strong> </div>
+<div align="center">
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,cs" alt="Languages" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Pascal-00599C?style=for-the-badge" alt="Pascal" />
+
+</div>
+
+### Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,express,nestjs,dotnet,bootstrap,tailwind,sass" alt="Frontend and backend technologies" />
+
+<br />
+
+<img src="https://img.shields.io/badge/EJS-8F4E37?style=for-the-badge" alt="EJS" />
+<img src="https://img.shields.io/badge/CodeIgniter%203-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 3" />
+
+### Database & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux" alt="Database and infrastructure" />
+
+<br />
+
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=000000" alt="ClickHouse" />
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+
+### AI & Automation
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+
+### Testing
+
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+
+### Tools & Game Development
+
+<img src="https://skillicons.dev/icons?i=git,postman,figma,blender,unity,unreal" alt="Tools and game development" />
+
+</div>
