@@ -16,7 +16,7 @@ Tech Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,cs" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,python,cpp,cs" alt="Languages" />
 
 <br />
 
